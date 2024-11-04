@@ -1,0 +1,15 @@
+@import url("styles/header.css");
+
+:root{
+
+ --cor-de-fundo:black;
+ --cor-do-text0:rgb(205, 3, 255);
+ --cor-do-texto-2:rgb(253, 236, 0);
+ --destaque:black;
+ --links:white;
+
+}
+
+.cabecalho{
+background-color: var(--cor-de-fundo);
+}
